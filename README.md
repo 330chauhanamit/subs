@@ -2,11 +2,11 @@
 
 # Getting Started with Create React App for
 
-##Frontend part
+#Frontend part
 ### `npm start`
 need to be in the directory of client folder
 
-##Backend part
+#Backend part
 ### `node server.js`
 from root folder
 
